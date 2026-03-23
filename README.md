@@ -17,7 +17,7 @@ Aplicação de console desenvolvida em Java para gerenciar funcionários, permit
 - Estruturas de repetição (`for`, `while`)
 - Estruturas condicionais (`if/else`)
 
-## 🛠 Tecnologias
+## Tecnologias
 - Java
 
 ## Como executar
